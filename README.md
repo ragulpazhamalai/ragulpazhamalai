@@ -17,5 +17,4 @@
 - Data Visualization
 
 ## 📫 Contact Me
-- LinkedIn: your-link
-- Email: your-email
+- Email: ragulpazhamalai@gmail.com
