@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ragul Pazhamalai👋
 
-<!--
-**ragulpazhamalai/ragulpazhamalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst / ML Engineer  
 
-Here are some ideas to get you started:
+## 🔹 Skills
+- Python
+- SQL
+- Machine Learning
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects
+- 📊 Customer Churn Prediction
+- 💰 Part Price Prediction
+
+## 🔹 Currently Learning
+- Advanced SQL
+- Data Visualization
+
+## 📫 Contact Me
+- LinkedIn: your-link
+- Email: your-email
