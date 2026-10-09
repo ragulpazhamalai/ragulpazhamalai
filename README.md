@@ -2,7 +2,7 @@
 
 ### Applied AI / GenAI Engineer | Python | RAG | Power Platform
 
-I build AI applications with large language models, Retrieval-Augmented Generation (RAG), and machine learning. I bring ** years of enterprise analytics and automation experience**, including Power BI, SQL, Power Apps, and Power Automate.
+I build AI applications with large language models, Retrieval-Augmented Generation (RAG), and machine learning. I bring  years of enterprise analytics and automation experience, including Power BI, SQL, Power Apps, and Power Automate.
 
 My featured project is **Advanced RAG Assistant**, a PDF question answering application with hybrid retrieval, multi-query search, conversational memory, evaluation, and a Streamlit interface.
 
